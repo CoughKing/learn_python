@@ -7,6 +7,11 @@ Inside Basics.
 02. Basics Data Types and variables.
 03. Various Operators and User Input.
 04. If Statements and Conditions.
-05. Loops
-06. Sequence and Collections. Here 06_1 dives into Lists and its functions and methods. 06_2 introduce about tuples.
+05. Loops.
+06. Sequence and Collections. Here 06_1 dives into Lists and its functions and methods. 06_2 introduce about tuples. And 06_3 introduce dictionary.
+07. Functions.
+08. Exception Handling.
+09. File Operations.
+010. String Functions.
+
 
