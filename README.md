@@ -1,7 +1,11 @@
 # learn_python
 Trying to learn python lol.
 
-1. Needs to modify data types before we can concatenate them.  (See 01 in Basics)
- 
+Inside Basics.
+
+01. Nothing that Matters. Just a concept of typecasting.
+02. Basics Data Types and variables.
+03. Various Operators and User Input
+
 
 

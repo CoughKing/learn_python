@@ -1,4 +1,4 @@
-# Data Types and Variables In Python
+# Data Types and Variables In Python using variables
 
 # Integer
 
@@ -19,3 +19,5 @@ f = "World"
 
 g = True
 h = False
+
+print (g)
