@@ -31,3 +31,19 @@ m = int(m)
 n = int(n)
 
 print(m + n)
+
+# membership operations: in, not in
+
+my_list = [1,2,3,4,5]
+
+print(2 in my_list)
+print(7 in my_list)
+
+#is, is not are identity operation
+
+h = 10
+
+if type(h) is int:
+    print("It's an Integer")
+else:
+    print("It's not an Integer")
